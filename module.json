@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "show_hp_etchings",
+	"author": "Owyn",
+	"description": "Makes you able to discern etching which also give +HP stat",
+	"options": {
+		"niceName": "Show HP etchings",
+		"guiName": "Show HP etchings"
+	},
+	"servers": ["https://raw.githubusercontent.com/Owyn/show_hp_etchings/master/"],
+	"supportUrl": "https://github.com/Owyn/show_hp_etchings/issues"
+}

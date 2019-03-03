@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "2bb0b9d25948e3879a3146707f27a6fd36383dc066a1296088cf5829a6e54dac",
+		"module.json": "db0b0d1f806401de414bef997f0132a686af4f1b2358aea57d652335bbf486c9"
+	},
+	"defs": {
+		"S_SHOW_ITEM_TOOLTIP": 9
+	}
+}
