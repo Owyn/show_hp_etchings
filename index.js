@@ -1,7 +1,7 @@
 
 module.exports = function show_hp_etchings(d)
 {	
-	d.hook('S_SHOW_ITEM_TOOLTIP', 9, (event) => {       
+	d.hook('S_SHOW_ITEM_TOOLTIP', 10, (event) => {       
 		switch (event.etching1)
 		{
 			case 4010279: // Gloves Energetic IV

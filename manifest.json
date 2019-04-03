@@ -1,9 +1,9 @@
 {
 	"files": {
-		"index.js": "2bb0b9d25948e3879a3146707f27a6fd36383dc066a1296088cf5829a6e54dac",
+		"index.js": "9c8e97fc83d9f74e75a0adaf13c9b4ce3f565784be53c59019679504f8128a13",
 		"module.json": "db0b0d1f806401de414bef997f0132a686af4f1b2358aea57d652335bbf486c9"
 	},
 	"defs": {
-		"S_SHOW_ITEM_TOOLTIP": 9
+		"S_SHOW_ITEM_TOOLTIP": 10
 	}
 }
